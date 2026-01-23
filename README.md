@@ -1,7 +1,7 @@
 <h2>Hi 👋, I'm Francisco</h2>
 <h3>Backend developer</h3>
 
-- 👨‍💻 All of my projects are available at [https://github-profile-red.vercel.app/](https://github-profile-red.vercel.app/)
+- 👨‍💻 All of my selected projects are available at [https://github-profile-red.vercel.app/](https://github-profile-red.vercel.app/)
 
 - 📫 How to reach me **Francisco.guitler@outlook.com**
 
