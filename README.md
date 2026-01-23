@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Francisco</h1>
-<h3 align="center">A backend developer</h3>
+<h1>Hi 👋, I'm Francisco</h1>
+<h3>Backend developer</h3>
 
 - 👨‍💻 All of my projects are available at [https://github-profile-red.vercel.app/](https://github-profile-red.vercel.app/)
 
