@@ -13,8 +13,8 @@
   </a>
 </p>
 
+<h3 align="left">Languages and Tools:</h3>
 <table>
-  <th><h3 align="left">Languages and Tools:</h3></th>
   <tr>
     <td>
       <a href="https://spring.io/" target="_blank" rel="noreferrer">
