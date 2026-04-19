@@ -6,12 +6,30 @@
 - 📫 How to reach me **Francisco.guitler@outlook.com**
 
 <h3 align="left">Connect with me:</h3>
+
 <p align="left">
-<a href="https://linkedin.com/in/francisco-guitler-1886322b4" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="francisco-guitler-1886322b4" height="30" width="40" /></a>
+  <a href="https://linkedin.com/in/francisco-guitler-1886322b4" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="francisco-guitler-1886322b4" height="30" width="40" />
+  </a>
 </p>
 
+<table>
+  <tr>
+    <td>
+      <a href="https://spring.io/" target="_blank" rel="noreferrer"> 
+        <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> 
+      </a>
+    </td>
+    <td>
+      <a href="https://www.java.com" target="_blank" rel="noreferrer"> 
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> 
+      </a>
+    </td>
+  </tr>
+</table>
+
 <h3 align="left">Languages and Tools:</h3>
-<div align="left" display="inline">
+<div align="left">
   <a href="https://spring.io/" target="_blank" rel="noreferrer"> 
     <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> 
   </a>
