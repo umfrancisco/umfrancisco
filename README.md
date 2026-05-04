@@ -23,5 +23,5 @@
 
 ## 📫 Contact
 
-- LinkedIn: [www.linkedin.com/in/francisco-guitler-1886322b4]
+- [LinkedIn] (www.linkedin.com/in/francisco-guitler-1886322b4)
 - Email: francisco.guitler@outlook.com
