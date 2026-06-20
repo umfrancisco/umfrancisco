@@ -25,10 +25,10 @@
 
 ## Featured Projects
 
-🔗 Games and Hardware E-Commerce – REST API with Spring Boot, JWT auth, PostgreSQL.
-🔗 Public Security API – REST API with Spring Boot and PostgreSQL that reads real crime statistics.
-🔗 Book Management Backend - REST API with Spring Boot, PostgreSQL, Docker.
-🔗 Computer Store Backend - OOP concepts, Hibernate, PostgreSQL, Docker.
+- 🔗 Games and Hardware E-Commerce – REST API with Spring Boot, JWT auth, PostgreSQL.
+- 🔗 Public Security API – REST API with Spring Boot and PostgreSQL that reads real crime statistics.
+- 🔗 Book Management Backend - REST API with Spring Boot, PostgreSQL, Docker.
+- 🔗 Computer Store Backend - OOP concepts, Hibernate, PostgreSQL, Docker.
 
 👉 See more: https://github-profile-red.vercel.app/
 
