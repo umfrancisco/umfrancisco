@@ -30,10 +30,12 @@
 - api-securanca-publica-backend — the SSP-SP public safety data API
 - spring-langchain4j-project — AI assistant with LangChain4j + Ollama
 - go-agenda — a REST API in Go
+- 
+See more: https://github-profile-red.vercel.app/
+
+## Activity Graph
 
 [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=umfrancisco&theme=tokyo-night)](https://github.com/umfrancisco)
-
-See more: https://github-profile-red.vercel.app/
 
 ## Contact
 
