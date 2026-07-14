@@ -1,7 +1,7 @@
 <h2>Hi, I'm Francisco</h2>
 <h3>About me</h3>
 
-- Backend developer focused on Java + Spring ecosystem
+- Full Stack developer focused on React + Java + Spring ecosystem
 - Strong interest in system design, APIs, and databases
 - Experience building RESTful services and data pipelines
 - Currently improving skills in distributed systems & cloud
