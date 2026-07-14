@@ -30,7 +30,7 @@
 - api-securanca-publica-backend — the SSP-SP public safety data API
 - spring-langchain4j-project — AI assistant with LangChain4j + Ollama
 - go-agenda — a REST API in Go
-- 
+  
 See more: https://github-profile-red.vercel.app/
 
 ## Activity Graph
