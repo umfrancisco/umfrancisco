@@ -33,10 +33,6 @@
   
 See more: https://github-profile-red.vercel.app/
 
-## Activity Graph
-
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=umfrancisco&theme=tokyo-night)](https://github.com/umfrancisco)
-
 ## Contact
 
 - LinkedIn: www.linkedin.com/in/francisco-guitler
@@ -44,6 +40,6 @@ See more: https://github-profile-red.vercel.app/
 
 ## What I'm Looking For
 
-- Junior Backend Developer opportunities
+- Junior Full Stack Developer opportunities
 - Collaborative teams with strong engineering culture
-- Opportunities to grow in Java, Spring, and scalable systems
+- Opportunities to grow in React, Java, Spring, and scalable systems
