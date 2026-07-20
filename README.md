@@ -25,11 +25,11 @@
 
 ## Featured Projects
 
-- games-ecommerce-backend — Spring Boot + PostgreSQL + JWT
+- games-ecommerce-backend — Spring Boot + PostgreSQL + Docker + JWT
 - banking-system-backend — Spring Boot + Docker + MySQL
-- api-securanca-publica-backend — the SSP-SP public safety data API
+- api-securanca-publica-backend — the SSP-SP public safety data API + CSV Reader
 - spring-langchain4j-project — AI assistant with LangChain4j + Ollama
-- go-agenda — a REST API in Go
+- api-public-security-go-lang — a REST API in Go to read CSV files
   
 See more: https://github-profile-red.vercel.app/
 
