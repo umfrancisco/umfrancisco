@@ -31,7 +31,7 @@
 - spring-langchain4j-project — AI assistant with LangChain4j + Ollama
 - api-public-security-go-lang — a REST API in Go to read CSV files
   
-See more: [https://github-profile-red.vercel.app/](https://my-developer-portfolio-omega.vercel.app/)
+See more: https://my-developer-portfolio-omega.vercel.app/
 
 ## Contact
 
