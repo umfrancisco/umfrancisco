@@ -1,7 +1,7 @@
 <h2>Hi, I'm Francisco</h2>
 <h3>About me</h3>
 
-- Full Stack developer focused on React + TypeScript + Java + Spring ecosystem
+- Full Stack developer focused on JavaScript + TypeScript + React
 - Strong interest in system design, APIs, and databases
 - Experience building RESTful services and data pipelines
 - Currently improving skills in distributed systems & cloud
@@ -37,4 +37,4 @@ See more: https://developer-projects-portfolio-lambda.vercel.app/
 
 - Junior Full Stack Developer opportunities
 - Collaborative teams with strong engineering culture
-- Opportunities to grow in React, Java, Spring, and scalable systems
+- Opportunities to grow in JavaScript, TypeScript and React
