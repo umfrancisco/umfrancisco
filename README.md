@@ -38,3 +38,8 @@ See more: https://developer-projects-portfolio-lambda.vercel.app/
 - Junior Full Stack Developer opportunities
 - Collaborative teams with strong engineering culture
 - Opportunities to grow in JavaScript, TypeScript and React
+
+## My GitHub Stats
+
+![GitHub Stats Card](https://ghstats.dev/api/card?username=umfrancisco)
+![Top Languages](https://ghstats.dev/api/langs?username=umfrancisco&max_langs=6&layout=vertical_list)
