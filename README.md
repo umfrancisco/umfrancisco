@@ -28,9 +28,9 @@
 
 ## Projects
 - [Portfolio](https://developer-projects-portfolio-lambda.vercel.app/)
-- [React Studies](https://github.com/umfrancisco/react-course-schmedtmann)
-- [Java & Spring Boot Studies](https://github.com/umfrancisco/java-course-telusko)
-- [Chingu Voyage 62](https://github.com/chingu-voyages/V62-tier1-team-01)
+- [React: exercises, practice applications, and projects](https://github.com/umfrancisco/react-course-schmedtmann)
+- [Java & Spring Boot: exercises, practice applications, and projects](https://github.com/umfrancisco/java-course-telusko)
+- [Chingu Voyage 62: Collaborative project using the Scrum Agile methodology](https://github.com/chingu-voyages/V62-tier1-team-01)
 
 ## Contact
 
