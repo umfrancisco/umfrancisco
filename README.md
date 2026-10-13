@@ -26,7 +26,7 @@
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
-## Projects
+## Learning Projects & Practical Applications
 - [Portfolio](https://developer-projects-portfolio-lambda.vercel.app/)
 - [React: exercises, practice applications, and projects](https://github.com/umfrancisco/react-course-schmedtmann)
 - [Java & Spring Boot: exercises, practice applications, and projects](https://github.com/umfrancisco/java-course-telusko)
