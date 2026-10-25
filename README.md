@@ -28,14 +28,9 @@
 
 ## Learning Projects & Practical Applications
 
-### Portfolio
 - [Portfolio](https://developer-projects-portfolio-lambda.vercel.app/)
-
-### Courses
 - [React: exercises, practice applications, and projects](https://github.com/umfrancisco/react-course-schmedtmann)
 - [Java & Spring Boot: exercises, practice applications, and projects](https://github.com/umfrancisco/java-course-telusko)
-
-### Projects
 - [Data Structures & Algorithms](https://github.com/umfrancisco/data-structures-and-algorithms-typescript)
 - [Devshelf: frontend debugging challenge built with React](https://github.com/umfrancisco/devshelf-react-challenge)
 - [Chingu Voyage 62: collaborative project using the Scrum Agile methodology](https://github.com/chingu-voyages/V62-tier1-team-01)
