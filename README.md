@@ -30,6 +30,7 @@
 
 - [Portfolio](https://developer-projects-portfolio-lambda.vercel.app/)
 - [React: exercises, practice applications, and projects](https://github.com/umfrancisco/react-course-schmedtmann)
+- [TypeScript: exercises, practice applications, and projects](https://github.com/umfrancisco/typescript-course-schwarzmuller)
 - [Java & Spring Boot: exercises, practice applications, and projects](https://github.com/umfrancisco/java-course-telusko)
 - [Data Structures & Algorithms](https://github.com/umfrancisco/data-structures-and-algorithms-typescript)
 - [Devshelf: frontend debugging challenge built with React](https://github.com/umfrancisco/devshelf-react-challenge)
